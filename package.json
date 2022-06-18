@@ -1,0 +1,28 @@
+{
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/guyellis/cloud-runner/issues"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "description": "Example for Cloud Run",
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "homepage": "https://github.com/guyellis/cloud-runner#readme",
+  "keywords": [],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "cloud-runner",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guyellis/cloud-runner.git"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
